@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P224\Task\RestaurantManagement\RestaurantManagement\bin\Debug\netcoreapp3.1\RestaurantManagement.exe
+C:\Users\memme\Desktop\P224\Task\RestaurantManagement\RestaurantManagement\bin\Debug\netcoreapp3.1\RestaurantManagement.deps.json
+C:\Users\memme\Desktop\P224\Task\RestaurantManagement\RestaurantManagement\bin\Debug\netcoreapp3.1\RestaurantManagement.runtimeconfig.json
+C:\Users\memme\Desktop\P224\Task\RestaurantManagement\RestaurantManagement\bin\Debug\netcoreapp3.1\RestaurantManagement.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P224\Task\RestaurantManagement\RestaurantManagement\bin\Debug\netcoreapp3.1\RestaurantManagement.dll
+C:\Users\memme\Desktop\P224\Task\RestaurantManagement\RestaurantManagement\bin\Debug\netcoreapp3.1\RestaurantManagement.pdb
+C:\Users\memme\Desktop\P224\Task\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\RestaurantManagement.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P224\Task\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\RestaurantManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P224\Task\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\RestaurantManagement.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P224\Task\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\RestaurantManagement.AssemblyInfo.cs
+C:\Users\memme\Desktop\P224\Task\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\RestaurantManagement.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P224\Task\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\RestaurantManagement.dll
+C:\Users\memme\Desktop\P224\Task\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\RestaurantManagement.pdb
+C:\Users\memme\Desktop\P224\Task\RestaurantManagement\RestaurantManagement\obj\Debug\netcoreapp3.1\RestaurantManagement.genruntimeconfig.cache
